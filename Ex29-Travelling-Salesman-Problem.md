@@ -17,8 +17,8 @@ update the cost.
 ## Program:
 ```
 Program to implement Travelling Salesman Problem for finding shortest path
-Developed by: 
-RegisterNumber:  
+Developed by: Easwari M
+RegisterNumber: 212223240033 
 
 #include<stdio.h> 
 int a[10][10],visited[10],n,cost=0; 
